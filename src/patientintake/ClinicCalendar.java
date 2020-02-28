@@ -6,6 +6,7 @@ import java.util.*;
 
 public class ClinicCalendar {
 
+
    private List<PatientAppointment> appointments;
 
    public ClinicCalendar() {
